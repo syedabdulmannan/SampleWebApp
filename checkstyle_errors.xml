@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-16"?>
+<?xml version="1.0" ?>
 <checkstyle version="7.8.2">
 <file name="C:\GitWorkspace\SampleWebApp\src\example\junit\TestCalculator.java">
 <error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
